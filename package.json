@@ -1,0 +1,16 @@
+{
+  "name": "learn-react",
+  "version": "1.0.0",
+  "description": "Examples from the book React - Stoyan Stefanov",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "create-react-class": "^15.6.3",
+    "prop-types": "^15.6.2",
+    "react-addons-pure-render-mixin": "^15.6.2"
+  }
+}

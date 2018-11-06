@@ -1,0 +1,11 @@
+.excel{
+    border: solid 1px #000;
+}
+
+.excel td{
+    border-bottom: solid 1px #000;
+}
+
+.excel tr:last-child td{
+    border: none;
+}
